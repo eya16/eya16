@@ -15,8 +15,7 @@ Here is the list of the technologies I'm currently using
 <p align="center">
   <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png"     alt="Angular" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"     alt=".Net Core" width="40" height="40"/>
-  <img src="https://tuhocict.com/wp-content/uploads/2020/05/aspnetcore-1.gif"
-"     alt="Asp.NetCore MVC " width="60" height="60"/>
+ 
 
 
    </p>
