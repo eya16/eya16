@@ -22,7 +22,8 @@ Here is the list of the technologies I'm currently using
    </p>
 
 <p align="center">
-     ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/eya16)
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/eya16/README.md">
+
 </p>
 
 <!--
