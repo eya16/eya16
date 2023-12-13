@@ -22,9 +22,7 @@ Here is the list of the technologies I'm currently using
    </p>
 
 <p align="center">
-  <a href="https://github.com/eya16">
-    <img src="https://github-readme-stats.vercel.app/api?username=eya16_private=true&hide_border=true&show_icons=true" alt="eya ksouri's github stats">
-  </a>
+     ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/eya16)
 </p>
 
 <!--
