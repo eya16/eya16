@@ -21,7 +21,11 @@ Here is the list of the technologies I'm currently using
 
    </p>
 
-
+<p align="center">
+  <a href="https://github.com/eya16">
+    <img src="https://github-readme-stats.vercel.app/api?username=eya16_private=true&hide_border=true&show_icons=true" alt="eya ksouri's github stats">
+  </a>
+</p>
 
 <!--
 **eya16/eya16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
