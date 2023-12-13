@@ -23,7 +23,7 @@ Here is the list of the technologies I'm currently using
 
 <p align="center">
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eya16&show_icons=true&theme=radical&bg_color=00000000&text_color=#222">
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eya16&show_icons=true&theme=radical&bg_color=00000000&text_color=#111">
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eya16&show_icons=true&theme=radical&bg_color=00000000&text_color=#777">
 
 
 </p>
