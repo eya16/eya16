@@ -1,8 +1,11 @@
- ### Hi there 👋
-                                                         
- ### I am Eya Ksouri 
+<h1 align="center">
+Hi There 👋 <br> 
+I am Eya Ksouri 
+</h1>
 
-### <hr> 
+<h3 align="center">
+A software engineer 
+</h3>
 
 
 
