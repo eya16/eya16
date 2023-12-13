@@ -16,7 +16,8 @@ Here is the list of the technologies I'm currently using
   <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png"     alt="Angular" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"     alt=".Net Core" width="40" height="40"/>
  
-
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
 
    </p>
 
