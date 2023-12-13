@@ -23,7 +23,7 @@ Here is the list of the technologies I'm currently using
 
 <p align="center">
 <!-- Couleur du texte en #777 (gris moyen) -->
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eya16&show_icons=true&theme=radical&bg_color=F8F8F8&text_color=000&icon_color=E36209">
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eya16&show_icons=true&theme=radical&bg_color=00000000&text_color=000&icon_color=E36209">
 
 
 </p>
